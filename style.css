@@ -1,0 +1,26 @@
+
+#star_container {
+	/*height: 100px;
+	width: 100%;*/
+	text-align: center;
+	background-color: pink;
+}
+
+.starimg {
+	text-align: center;
+	display: inline-block;
+	/*margin-top: 20px;*/
+	background-color: black;
+}
+
+hr {
+	border: none;
+	border-top: solid #CECFD1;
+	width: 350px;
+	border-width: 2px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	display: inline-block;
+	padding-bottom: 8px;
+}
