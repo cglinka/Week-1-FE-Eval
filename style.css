@@ -1,5 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Spinnaker);
 
-#star_container {
+body {
+	background-color: #f2f3e7;
+	min-width: 850px;
+	/*padding-top: 120px;*/
+}
+
+.header_container {
+	height: 150px;
+	border-bottom:4px solid #C5C5C5;
+	background-color: #FFFFFF;
+	padding:25px;
+	box-sizing: border-box;
+	/*position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;*/
+}
+
+.navbar {
+	float: right;
+}
+
+.nav {
+	list-style: none;
+	float: right;
+	padding: 10px;
+	font-family: "Spinnaker", sans-serif;
+	color: #444233;
+}
+
+.star_container {
 	/*height: 100px;
 	width: 100%;*/
 	text-align: center;
